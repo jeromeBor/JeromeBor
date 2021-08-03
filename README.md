@@ -4,7 +4,7 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=.jeromeBor)
 [![Github](https://img.shields.io/github/followers/jeromeBor?label=Follow&style=social)](https://github.com/jeromeBor)
 
-### 🟠 Who am i ?
+#### 🟠 ### Who am i ?
 
 1. I'm a web dev that is also a graphic designer.
 2. I really enjoy create stuff, no matter if it's a website or simple shelf
