@@ -1,4 +1,4 @@
-### Hello ! My name is **Jérome BORGA** and i'm a french front-end web dev !
+###  Hello 👋 ! My name is **Jérome BORGA** and i'm a french front-end web dev !
 
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=.jeromeBor)
