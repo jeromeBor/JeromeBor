@@ -3,6 +3,14 @@
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=.jeromeBor)
 [![Github](https://img.shields.io/github/followers/jeromeBor?label=Follow&style=social)](https://github.com/jeromeBor)
+
+#### Who am i ?
+
+1. First item
+2. Second item
+3. Third item
+4. Fourth item 
+
 ### ✉️ Find me on:
 
 
