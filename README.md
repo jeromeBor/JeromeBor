@@ -14,7 +14,7 @@
 ### ✉️ Find me on:
 
 
-<p align="left" style="50%">
+<p align="left" style="width:50%">
  <a href="https://www.linkedin.com/in/jérome-borga-7a4973133" target="_blank" rel="noopener noreferrer"> <img src="https://www.svgrepo.com/show/138936/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="https://www.behance.net/nuzzler"> <img src="https://cdn.worldvectorlogo.com/logos/behance-1.svg" alt="Behave" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
