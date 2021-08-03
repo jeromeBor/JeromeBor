@@ -6,6 +6,10 @@
 
 ### 🟠 Who am i ?
 
+- • First item
+- Second item
+- Third item
+
 • - I'm a web dev that is also a graphic designer.
 • - I really enjoy create stuff, no matter if it's a website or simple shelf
 • - WIP
