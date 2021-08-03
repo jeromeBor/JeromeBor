@@ -5,6 +5,7 @@
 [![Github](https://img.shields.io/github/followers/jeromeBor?label=Follow&style=social)](https://github.com/jeromeBor)
 
 #### <span style="color:blue"> *Who am i ?*</span>
+<span style="color:blue">some *blue* text</span>
 
 1. First item
 2. Second item
