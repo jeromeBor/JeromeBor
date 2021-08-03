@@ -4,11 +4,13 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=.jeromeBor)
 [![Github](https://img.shields.io/github/followers/jeromeBor?label=Follow&style=social)](https://github.com/jeromeBor)
 
+<div style="width:50%">
 ### 🟠 Who am i ?
 
 - I'm a web dev that is also a graphic designer.
 - I really enjoy create stuff, no matter if it's a website or simple shelf
 - WIP
+ </div>
 
  ### 🟠 Check out my works on :
 
