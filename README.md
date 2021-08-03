@@ -28,6 +28,6 @@
 
 </p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jeromeBor&show_icons=true&theme=prussian)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jeromeBor&show_icons=true&theme=react)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeromeBor&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeromeBor&theme=react)
