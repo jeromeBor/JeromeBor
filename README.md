@@ -1,5 +1,5 @@
 ### Hello !
-#My name is **bold text** Jérome BORGA and i'm a french front-end web dev !
+#My name is **Jérome BORGA** and i'm a french front-end web dev !
 
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=.jeromeBor)
