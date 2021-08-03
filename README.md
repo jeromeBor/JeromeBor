@@ -10,7 +10,7 @@
 - 🔨 I really enjoy create stuff, no matter if it's a website or simple shelf.
 - 🕹️ I enjoy playing video game to take a break between two activities.
 
- ### 🟠 Check out my works on :
+ ### 🟠 Check me out also on :
 
 <p align="left" >
  <a href="https://www.linkedin.com/in/jérome-borga-7a4973133" target="_blank" rel="noopener noreferrer"> <img src="https://www.svgrepo.com/show/138936/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
