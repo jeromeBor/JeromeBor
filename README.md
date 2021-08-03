@@ -25,9 +25,7 @@
  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="Mysql" height="40" style="vertical-align:top; margin:4px">
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap" height="40" style="vertical-align:top; margin:4px">
  <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg" alt="Bootstrap" height="40" style="vertical-align:top; margin:4px">
-
 </p>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jeromeBor&show_icons=true&theme=react)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeromeBor&theme=react)
