@@ -25,7 +25,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="ReactJS" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
- <img src="https://e7.pngegg.com/pngimages/429/72/png-clipart-mysql-database-graphics-microsoft-access-logo-blue-web-design-thumbnail.png" alt="Mysql" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="Mysql" height="40" style="vertical-align:top; margin:4px">
 </p>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jeromeBor&show_icons=true&theme=tokyonight)
