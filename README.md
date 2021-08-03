@@ -1,3 +1,6 @@
+## Hello ! My name is Jérome BORGA and i'm a french front-end web dev !
+
+
 ![](https://visitor-badge.laobi.icu/badge?page_id=.jeromeBor)
 [![Github](https://img.shields.io/github/followers/jeromeBor?label=Follow&style=social)](https://github.com/jeromeBor)
 ### ✉️ Find me on:
@@ -20,3 +23,4 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jeromeBor&show_icons=true&theme=tokyonight)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
