@@ -6,9 +6,9 @@
 
 ### 🟠 Who am i ?
 
-1. I'm a web dev that is also a graphic designer.
-2. I really enjoy create stuff, no matter if it's a website or simple shelf
-3. WIP
+• I'm a web dev that is also a graphic designer.
+• I really enjoy create stuff, no matter if it's a website or simple shelf
+• WIP
 
  ### 🟠 Check out my works on :
 
