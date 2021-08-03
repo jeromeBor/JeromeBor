@@ -8,7 +8,7 @@
 
 <p align="left" style="50%">
  <a href="https://charalambosioannou.github.io/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
- <a href="https://linkedin.com/in/charalambosioannou" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://linkedin.com/in/charalambosioannou" target="_blank" rel="noopener noreferrer"> <img src="https://i.postimg.cc/HW0cTF10/linkedin.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="https://www.behance.net/nuzzler"> <img src="https://cdn.worldvectorlogo.com/logos/behance-1.svg" alt="Behave" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
