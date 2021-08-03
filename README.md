@@ -1,5 +1,4 @@
-## Hello ! I'm Jérome BORGA and i'm a front-end web developper ! 
-
+![](https://visitor-badge.laobi.icu/badge?page_id=jeromeBor.jeromeBor)
 ### ✉️ Find me on:
 
 
